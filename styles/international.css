@@ -1,0 +1,12 @@
+.map-iframe {
+  padding: 100px;
+}
+.page-title {
+  font-weight: 900;
+  font-size: 40px;
+  padding: 5px;
+  text-align: center;
+}
+.page-title .letter {
+  opacity: 0;
+}

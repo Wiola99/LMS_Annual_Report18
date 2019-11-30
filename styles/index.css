@@ -1,0 +1,124 @@
+.full-image {
+  background-size: cover;
+  background-position: center;
+  min-height: 300px;
+  opacity: 0;
+  filter: blur(15px);
+  transition: all 300ms;
+}
+.full-image1 {
+  min-height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+.page-title {
+  font-weight: 900;
+  font-size: 40px;
+  padding: 30px 10px;
+  text-align: center;
+}
+
+#events {
+  width: 90%;
+}
+
+#events .title {
+  font-size: 30px;
+  font-weight: normal;
+  margin-bottom: 3px;
+  color: rgb(70, 70, 70);
+  background-color: white;
+  padding: 5px;
+}
+.letter {
+  opacity: 0;
+}
+
+#events .subtitle {
+  font-size: 22px;
+  font-weight: lighter;
+  color: gray;
+  background-color: white;
+  padding: 5px;
+}
+
+#events .description {
+  font-size: 15px;
+  font-weight: lighter;
+  color: darkslategray;
+  background-color: white;
+  padding: 7px;
+}
+
+#events .event-date {
+  font-size: 20;
+  color: silver;
+  background-color: whitesmoke;
+  padding: 10px 0;
+  margin-bottom: 25px;
+}
+#timeline {
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+  list-style: none;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  padding: 15px;
+}
+
+#timeline li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  color: rgb(22, 192, 135);
+  flex: 1;
+}
+
+#timeline .date {
+  font-size: 23px;
+  color: gray;
+  padding-bottom: 5px;
+  font-weight: 300;
+}
+
+#timeline .title {
+  font-size: 16px;
+  color: rgb(46, 46, 48);
+  display: block;
+  text-align: center;
+  padding: 15px 0px;
+  font-weight: 600;
+}
+
+#timeline .line {
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: rgb(255, 255, 255);
+  border: 2px solid;
+  border-color: rgb(194, 191, 191);
+  /*move dot forward thanks to z index*/
+  z-index: +1;
+}
+#timeline .lineH {
+  display: block;
+  height: 1px;
+  width: 100%;
+  background: rgb(194, 191, 191);
+  margin-top: -10px;
+}
+
+#page-title {
+  text-align: center;
+  padding: 20px;
+}
+
+.imgtrans {
+  filter: initial;
+  opacity: 1;
+}

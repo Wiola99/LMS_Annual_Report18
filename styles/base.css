@@ -1,0 +1,66 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+div, ul, li, span, p {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+
+#header .header-image {
+    background-image: url("../img/triaxial_cell-29.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 110%;
+    width: 110%;
+    position: absolute;
+    z-index: 0;
+    filter: blur(3px);
+}
+
+#header .header-title {
+    background-color: rgba(255, 255, 255, 0.5);
+    display: inline-block;
+    padding: 10px;
+    z-index: 50;
+}
+
+#header .header-title h1 {
+    font-weight: lighter;
+    font-size: 35px;
+}
+
+#header .header-title h2 {
+    font-weight: lighter;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#header .header-menu {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7);
+    font-weight: lighter;
+    font-size: 20px;
+    padding: 10px 10px;
+}   
+#header .header-menu a {
+    color: black;
+    font-weight: 400;
+    margin: 0 5px;
+}
+
+#header .header-menu .active {
+    text-decoration: underline;
+}
