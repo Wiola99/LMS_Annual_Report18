@@ -1,7 +1,6 @@
 
 This project was created for the Isaac’s Pante course named “Publication numérique”. 
-The final outcome of the project can be viewed here: https://wiola99.github.io/LMS_Annual_Report18/index.html]
-
+The final outcome of the project can be viewed here: [https://wiola99.github.io/LMS_Annual_Report18/index.html
 # Introduction
 
 The Laboratory of Soil Mecanics is one of the laboratories in the Civil Engineering section at the EPFL. The laboratory’s team, under the lead of professor Lyesse Laloui, is focusing on the research in the fields of nuclear waste storage, energy geostructures, bio-improved soil, carbon dioxide storage, behaviour of shales and landslide analysis. 
