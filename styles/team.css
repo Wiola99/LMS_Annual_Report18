@@ -1,10 +1,8 @@
 
 body {
-  background-color:  rgb(255, 255, 255);
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
-.container{
-  background-color: rgb(255, 255, 255);
-}
+
 .team-image {
   display: block;
   margin-left: auto;
@@ -60,7 +58,7 @@ body {
   background-image: url("../img/team.jpg");
 
   /* Half height */
-  height: 70%;
+  height: 500px;
 
   /* Center and scale the image nicely */
   background-position: center;
