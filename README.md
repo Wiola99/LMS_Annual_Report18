@@ -13,10 +13,11 @@ The full annual report can be found and downloaded here: [https://www.epfl.ch/la
 
 # Project description
 
-The idea of this project is to convert previously printed Annual Report into the digital form and present it in the form of a website using web-development technologies such HTML5 and CSS3 as JavaScript. The website will be composed in three parts: 
+The idea of this project is to convert previously printed Annual Report into the digital form and present it in the form of a website using web-development technologies such as HTML5, CSS3 and JavaScript. The website will be composed in three parts: 
 1.	Timeline with the most important events and achievements
 2.	International activity of the laboratory with the interactive map created thanks to StoryMapJS
 3.	People 
+
 The aim is to render the Annual Report more accessible and give visibility to the research carried out at Laboratory of Soil Mechanics. 
 
 
