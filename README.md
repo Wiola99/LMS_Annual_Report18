@@ -1,6 +1,6 @@
 
 This project was created for the Isaac’s Pante course named “Publication numérique”. 
-The final outcome of the project can be viewed here: [https://wiola99.github.io/LMS_Annual_Report18/team.html]
+The final outcome of the project can be viewed here: https://wiola99.github.io/LMS_Annual_Report18/index.html]
 
 # Introduction
 
