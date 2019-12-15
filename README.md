@@ -27,6 +27,6 @@ __The aim is to render the Annual Report more accessible and give visibility to 
 
 ## Authors
 
-Website created by Wioletta Kucharska
+_Website created by Wioletta Kucharska_
 
-Annual Report LMS for print created by Wioletta Kucharska and Patrycja Baryla. 
+_Annual Report LMS for print created by Wioletta Kucharska and Patrycja Baryla._
