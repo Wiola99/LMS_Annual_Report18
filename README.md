@@ -19,7 +19,7 @@ The website will be composed in three parts:
 2.	International activity of the laboratory with the interactive map created thanks to StoryMapJS
 3.	Presentation of the team 
 
-The aim is to render the Annual Report more accessible and give visibility to the research carried out at Laboratory of Soil Mechanics. 
+* The aim is to render the Annual Report more accessible and give visibility to the research carried out at Laboratory of Soil Mechanics. *
 
 
 
